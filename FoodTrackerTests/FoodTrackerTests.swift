@@ -2,7 +2,7 @@
 //  FoodTrackerTests.swift
 //  FoodTrackerTests
 //
-//  Created by YIXI ZHANG on 8/30/17.
+//  Created by Chongchong Wang on 8/30/17.
 //  Copyright © 2017 Chongchong. All rights reserved.
 //
 
